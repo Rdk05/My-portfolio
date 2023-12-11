@@ -5,7 +5,7 @@ import pglife from "../assets/portfolia/pglife.png";
 import lamp from "../assets/portfolia/lamp.png";
 import ecom from "../assets/portfolia/ecom.png";
 import guide from "../assets/portfolia/guide.png";
-import { Link } from "react-scroll";
+
 
 
 const Portfolio = () => {
