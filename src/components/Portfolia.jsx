@@ -65,7 +65,7 @@ return (
             />
             <div className="flex items-center justify-center">
               
-              <button className="text-2xl w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"><a href={link} target="_blank">Code</a></button>
+              <button className="text-2xl w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"><a href={link} target="_blank" rel="noreferrer">Code</a></button>
                 
             </div>
           </div>
