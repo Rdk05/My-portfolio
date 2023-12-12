@@ -9,7 +9,7 @@ const Home = () => {
       name="home"
       className="h-screen w-full pt-12 bg-gradient-to-b from-black via-black to-gray-800"
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-6 mb-4 md:flex-row">
+      <div className="max-w-screen-lg mt-6 mx-auto flex flex-col items-center justify-center h-full px-6 mb-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-5xl font-bold text-white">
             I'm <br/>a Full Stack Developer
@@ -38,7 +38,7 @@ const Home = () => {
           <img
             src={Hero}
             alt="my profile"
-            className="rounded-3xl mx-auto w-1/2"
+            className="rounded-3xl mt-2 m-10 mx-auto w-1/2"
           />
         </div>
       </div>
